@@ -419,6 +419,7 @@ h6 {
   background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
   position: relative;
+
 }
 
 #hero:before {
@@ -767,6 +768,7 @@ section {
   margin: 0 auto 20px auto;
   list-style: none;
   text-align: center;
+  align-items: center;
 }
 
 .portfolio #portfolio-flters li {
