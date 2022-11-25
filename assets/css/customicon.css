@@ -1,0 +1,66 @@
+.icon-cutom-TJ {
+    background-image: url(../img/icons/TJYellow.svg);
+    background-size: cover;
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+}
+
+
+.icon-cutom-DD {
+    background-image: url(../img/icons/DDYellow.svg);
+    background-size: cover;
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+}
+
+
+.icon-cutom-TTL {
+    background-image: url(../img/icons/TTLYellow.svg);
+    background-size: cover;
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+}
+
+
+.icon-cutom-IN {
+    background-image: url(../img/icons/INYellow.svg);
+    background-size: cover;
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+}
+
+.icon-cutomB-TJ {
+    background-image: url(../img/icons/iconBlack/TJYellow.svg);
+    background-size: cover;
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+}
+
+.icon-cutomB-DD {
+    background-image: url(../img/icons/iconBlack/DDYellow.svg);
+    background-size: cover;
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+}
+
+.icon-cutomB-TTL {
+    background-image: url(../img/icons/iconBlack/TTLYellow.svg);
+    background-size: cover;
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+}
+
+.icon-cutomB-IN {
+    background-image: url(../img/icons/iconBlack/INYellow.svg);
+    background-size: cover;
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+}
