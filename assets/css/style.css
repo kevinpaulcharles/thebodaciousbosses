@@ -711,6 +711,10 @@ section {
   margin-bottom: 0;
 }
 
+.services .icon-box p a {
+  color: #151515;
+}
+
 .services .icon-box:hover {
   border-color: #fff;
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
