@@ -7,6 +7,15 @@
 }
 
 
+.icon-cutom-CF {
+    background-image: url(../img/icons/CFYellow.svg);
+    background-size: cover;
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+}
+
+
 .icon-cutom-DD {
     background-image: url(../img/icons/DDYellow.svg);
     background-size: cover;
@@ -40,7 +49,13 @@
     height: 35px;
     width: 35px;
 }
-
+.icon-cutomB-CF {
+    background-image: url(../img/icons/CFYellow.svg);
+    background-size: cover;
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+}
 .icon-cutomB-DD {
     background-image: url(../img/icons/iconBlack/DDYellow.svg);
     background-size: cover;

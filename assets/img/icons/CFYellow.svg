@@ -1,0 +1,16 @@
+<svg width="710" height="710" viewBox="0 0 710 710" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="710" height="710" rx="40" fill="#FFC451"/>
+  
+  <defs>
+    <clipPath id="innerFrame">
+      <rect x="120" y="120" width="470" height="470" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <rect x="120" y="120" width="470" height="470" rx="10" stroke="black" stroke-width="20" fill="none"/>
+  
+  <g clip-path="url(#innerFrame)">
+    <path d="M250 198H460V248H340V338H460V388H250V198Z" fill="black"/>
+    <path d="M250 408H460V463H340V513H250V408Z" fill="black"/>
+  </g>
+</svg>
